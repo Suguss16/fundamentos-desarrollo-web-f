@@ -19,6 +19,14 @@ a{
 height: 150px;
 border-radius: 100%;
 background-color: chartreuse;
-border: 3px solid black}
+border: 3px solid black
+}
+
+.text-important{
+    font-size: 2rem;
+    background-color: yellow;
+    font-style: oblique;
+}
+
 
 
